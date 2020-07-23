@@ -1,0 +1,34 @@
+img{
+	width: 300px;
+	padding: 8px;
+	object-fit: cover;
+	background-color:black;
+
+}
+
+body{
+	text-align:center;
+	font-family: 'Gayathri', sans-serif;
+	font-size:35px;
+
+	background-color: #FCD9D9;
+
+}
+
+div{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.books{
+	width:350px;
+}
+
+#websiteTitle {
+	font-size:75px;
+}
+
+.books:hover{
+	background-color:white;
+	color:black;
+}
